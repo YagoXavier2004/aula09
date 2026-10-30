@@ -82,3 +82,6 @@ body {
     margin-bottom: 20px;      
     color: #ffffff;
 }
+.aviso-oculto{
+    display: none;
+}
